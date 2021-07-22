@@ -1,2 +1,2 @@
-# blender-scripts
-Collection of small blender scripts for personal use.
+# scripts
+Collection of small scripts for personal use.
