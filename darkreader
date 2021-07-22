@@ -1,0 +1,8 @@
+teamcity.playprojectcreate.com
+
+CSS
+.ring-header-logo {
+    color: ${white} !important;
+}
+
+================================
